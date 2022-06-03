@@ -7,12 +7,12 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 echo -e "Created By \033[1;92m[IstiakRisat"
 echo "----------------------------" | lolcat
-echo -e "\033[1;93m[1mFacebook :@ Istiak Ahamed Risat"
+echo -e "\033[1;93m[1mFacebook : Istiak Ahamed Risat"
 echo -e "\033[1;94m[1mGithub: no public/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
+😙welcome😙 
 +-+-+-+-+-+-+-+ " | lolcat
 date | lolcat
 echo ""
