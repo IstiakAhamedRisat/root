@@ -1,5 +1,6 @@
 # root
-https://github.com/IstiakAhamedRisat/root
+
+git clone https://github.com/IstiakAhamedRisat/root
 
 chmod +x *
 
