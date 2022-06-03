@@ -5,10 +5,10 @@ command_not_found_handle() {
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 
 clear
-echo -e "Created By \033[1;92m[Istiak_Risat]"
+echo -e "Created By \033[1;92m<_>Istiak_Risat<_>"
 echo "----------------------------" | lolcat
-echo -e "\033[1;93m[Facebook : Istiak Ahamed Risat"
-echo -e "\033[1;94m[Github: 🙂🙂🙂/"
+echo -e "\033[1;93m Facebook : Istiak Ahamed Risat"
+echo -e "\033[1;94m Github: 🥴🥴🥴🖕"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
